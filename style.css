@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-family: Comic sans ms;
+    background-color: darkgoldenrod;
+
+}
+
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color: coral;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+
+img {
+    transition: transform.2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#chatbots {
+    width: 100%;
+    height: 800px;
+    background-color: limegreen;
+}
